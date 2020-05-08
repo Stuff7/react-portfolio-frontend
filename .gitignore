@@ -1,0 +1,5 @@
+bin/*.ttf
+bin/*.js
+bin/*.svg
+node_modules
+build
